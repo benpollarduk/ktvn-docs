@@ -1,2 +1,2 @@
 # ktvn-docs
-Documentation for ktvn.
+This repo hosts the documentation for [ktvn](https://github.com/benpollarduk/ktvn).
