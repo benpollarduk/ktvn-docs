@@ -6,6 +6,7 @@ $dokka.location:com.github.benpollarduk.ktvn.backgrounds/EmptyBackground///Point
 $dokka.location:com.github.benpollarduk.ktvn.backgrounds/EmptyBackground/EmptyBackground/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.backgrounds/-empty-background/-empty-background.html
 $dokka.location:com.github.benpollarduk.ktvn.characters////PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.characters/index.html
 $dokka.location:com.github.benpollarduk.ktvn.characters/BaseEmotions///PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.characters/-base-emotions/index.html
+$dokka.location:com.github.benpollarduk.ktvn.characters/BaseEmotions/amused/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.characters/-base-emotions/amused.html
 $dokka.location:com.github.benpollarduk.ktvn.characters/BaseEmotions/angry/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.characters/-base-emotions/angry.html
 $dokka.location:com.github.benpollarduk.ktvn.characters/BaseEmotions/concerned/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.characters/-base-emotions/concerned.html
 $dokka.location:com.github.benpollarduk.ktvn.characters/BaseEmotions/confused/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.characters/-base-emotions/confused.html
@@ -14,7 +15,7 @@ $dokka.location:com.github.benpollarduk.ktvn.characters/BaseEmotions/happy/#/Poi
 $dokka.location:com.github.benpollarduk.ktvn.characters/BaseEmotions/normal/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.characters/-base-emotions/normal.html
 $dokka.location:com.github.benpollarduk.ktvn.characters/BaseEmotions/sad/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.characters/-base-emotions/sad.html
 $dokka.location:com.github.benpollarduk.ktvn.characters/Character///PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.characters/-character/index.html
-$dokka.location:com.github.benpollarduk.ktvn.characters/Character/Character/#kotlin.String#com.github.benpollarduk.ktvn.logic.listeners.Speaks#com.github.benpollarduk.ktvn.logic.listeners.Emotes#com.github.benpollarduk.ktvn.logic.listeners.Asks#com.github.benpollarduk.ktvn.logic.listeners.Acknowledges#com.github.benpollarduk.ktvn.logic.listeners.Answers/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.characters/-character/-character.html
+$dokka.location:com.github.benpollarduk.ktvn.characters/Character/Character/#kotlin.String#com.github.benpollarduk.ktvn.logic.listeners.Speaks#com.github.benpollarduk.ktvn.logic.listeners.Emotes#com.github.benpollarduk.ktvn.logic.listeners.Asks#com.github.benpollarduk.ktvn.logic.listeners.Acknowledges#com.github.benpollarduk.ktvn.logic.listeners.Acknowledges#com.github.benpollarduk.ktvn.logic.listeners.Answers/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.characters/-character/-character.html
 $dokka.location:com.github.benpollarduk.ktvn.characters/Character/asks/#com.github.benpollarduk.ktvn.logic.Question/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.characters/-character/asks.html
 $dokka.location:com.github.benpollarduk.ktvn.characters/Character/emotion/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.characters/-character/emotion.html
 $dokka.location:com.github.benpollarduk.ktvn.characters/Character/looks/#com.github.benpollarduk.ktvn.characters.Emotion/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.characters/-character/looks.html
@@ -46,6 +47,7 @@ $dokka.location:com.github.benpollarduk.ktvn.layout/Layout/move/#com.github.benp
 $dokka.location:com.github.benpollarduk.ktvn.layout/Layout/moveCenter/#com.github.benpollarduk.ktvn.characters.Character/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.layout/-layout/move-center.html
 $dokka.location:com.github.benpollarduk.ktvn.layout/Layout/moveLeft/#com.github.benpollarduk.ktvn.characters.Character/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.layout/-layout/move-left.html
 $dokka.location:com.github.benpollarduk.ktvn.layout/Layout/moveRight/#com.github.benpollarduk.ktvn.characters.Character/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.layout/-layout/move-right.html
+$dokka.location:com.github.benpollarduk.ktvn.layout/Layout/setMoveAcknowledgments/#com.github.benpollarduk.ktvn.logic.listeners.Acknowledges/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.layout/-layout/set-move-acknowledgments.html
 $dokka.location:com.github.benpollarduk.ktvn.layout/Layout/setMoves/#com.github.benpollarduk.ktvn.logic.listeners.Moves/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.layout/-layout/set-moves.html
 $dokka.location:com.github.benpollarduk.ktvn.layout/Position///PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.layout/-position/index.html
 $dokka.location:com.github.benpollarduk.ktvn.layout/Positions///PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.layout/-positions/index.html
@@ -56,6 +58,18 @@ $dokka.location:com.github.benpollarduk.ktvn.layout/Positions/left/#/PointingToD
 $dokka.location:com.github.benpollarduk.ktvn.layout/Positions/leftOf/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.layout/-positions/left-of.html
 $dokka.location:com.github.benpollarduk.ktvn.layout/Positions/right/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.layout/-positions/right.html
 $dokka.location:com.github.benpollarduk.ktvn.layout/Positions/rightOf/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.layout/-positions/right-of.html
+$dokka.location:com.github.benpollarduk.ktvn.logic.listeners.console////PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.listeners.console/index.html
+$dokka.location:com.github.benpollarduk.ktvn.logic.listeners.console/ConsoleListenerProvider///PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.listeners.console/-console-listener-provider/index.html
+$dokka.location:com.github.benpollarduk.ktvn.logic.listeners.console/ConsoleListenerProvider/answers/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.listeners.console/-console-listener-provider/answers.html
+$dokka.location:com.github.benpollarduk.ktvn.logic.listeners.console/ConsoleListenerProvider/asks/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.listeners.console/-console-listener-provider/asks.html
+$dokka.location:com.github.benpollarduk.ktvn.logic.listeners.console/ConsoleListenerProvider/clear/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.listeners.console/-console-listener-provider/clear.html
+$dokka.location:com.github.benpollarduk.ktvn.logic.listeners.console/ConsoleListenerProvider/emotes/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.listeners.console/-console-listener-provider/emotes.html
+$dokka.location:com.github.benpollarduk.ktvn.logic.listeners.console/ConsoleListenerProvider/emotesAcknowledgement/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.listeners.console/-console-listener-provider/emotes-acknowledgement.html
+$dokka.location:com.github.benpollarduk.ktvn.logic.listeners.console/ConsoleListenerProvider/moves/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.listeners.console/-console-listener-provider/moves.html
+$dokka.location:com.github.benpollarduk.ktvn.logic.listeners.console/ConsoleListenerProvider/movesAcknowledgement/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.listeners.console/-console-listener-provider/moves-acknowledgement.html
+$dokka.location:com.github.benpollarduk.ktvn.logic.listeners.console/ConsoleListenerProvider/narrates/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.listeners.console/-console-listener-provider/narrates.html
+$dokka.location:com.github.benpollarduk.ktvn.logic.listeners.console/ConsoleListenerProvider/speaks/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.listeners.console/-console-listener-provider/speaks.html
+$dokka.location:com.github.benpollarduk.ktvn.logic.listeners.console/ConsoleListenerProvider/speaksAcknowledgement/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.listeners.console/-console-listener-provider/speaks-acknowledgement.html
 $dokka.location:com.github.benpollarduk.ktvn.logic.listeners////PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.listeners/index.html
 $dokka.location:com.github.benpollarduk.ktvn.logic.listeners/Acknowledges///PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.listeners/-acknowledges/index.html
 $dokka.location:com.github.benpollarduk.ktvn.logic.listeners/Acknowledges/waitFor/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.listeners/-acknowledges/wait-for.html
@@ -65,17 +79,19 @@ $dokka.location:com.github.benpollarduk.ktvn.logic.listeners/Asks///PointingToDe
 $dokka.location:com.github.benpollarduk.ktvn.logic.listeners/Asks/invoke/#com.github.benpollarduk.ktvn.characters.Character#com.github.benpollarduk.ktvn.logic.Question#com.github.benpollarduk.ktvn.logic.listeners.Answers/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.listeners/-asks/invoke.html
 $dokka.location:com.github.benpollarduk.ktvn.logic.listeners/Asks/invoke/#com.github.benpollarduk.ktvn.characters.Narrator#com.github.benpollarduk.ktvn.logic.Question#com.github.benpollarduk.ktvn.logic.listeners.Answers/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.listeners/-asks/invoke.html
 $dokka.location:com.github.benpollarduk.ktvn.logic.listeners/Emotes///PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.listeners/-emotes/index.html
-$dokka.location:com.github.benpollarduk.ktvn.logic.listeners/Emotes/invoke/#com.github.benpollarduk.ktvn.characters.Character#com.github.benpollarduk.ktvn.characters.Emotion/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.listeners/-emotes/invoke.html
+$dokka.location:com.github.benpollarduk.ktvn.logic.listeners/Emotes/invoke/#com.github.benpollarduk.ktvn.characters.Character#com.github.benpollarduk.ktvn.characters.Emotion#com.github.benpollarduk.ktvn.logic.listeners.Acknowledges/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.listeners/-emotes/invoke.html
 $dokka.location:com.github.benpollarduk.ktvn.logic.listeners/ListenerProvider///PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.listeners/-listener-provider/index.html
-$dokka.location:com.github.benpollarduk.ktvn.logic.listeners/ListenerProvider/acknowledges/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.listeners/-listener-provider/acknowledges.html
 $dokka.location:com.github.benpollarduk.ktvn.logic.listeners/ListenerProvider/answers/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.listeners/-listener-provider/answers.html
 $dokka.location:com.github.benpollarduk.ktvn.logic.listeners/ListenerProvider/asks/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.listeners/-listener-provider/asks.html
 $dokka.location:com.github.benpollarduk.ktvn.logic.listeners/ListenerProvider/emotes/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.listeners/-listener-provider/emotes.html
+$dokka.location:com.github.benpollarduk.ktvn.logic.listeners/ListenerProvider/emotesAcknowledgement/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.listeners/-listener-provider/emotes-acknowledgement.html
 $dokka.location:com.github.benpollarduk.ktvn.logic.listeners/ListenerProvider/moves/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.listeners/-listener-provider/moves.html
+$dokka.location:com.github.benpollarduk.ktvn.logic.listeners/ListenerProvider/movesAcknowledgement/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.listeners/-listener-provider/moves-acknowledgement.html
 $dokka.location:com.github.benpollarduk.ktvn.logic.listeners/ListenerProvider/narrates/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.listeners/-listener-provider/narrates.html
 $dokka.location:com.github.benpollarduk.ktvn.logic.listeners/ListenerProvider/speaks/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.listeners/-listener-provider/speaks.html
+$dokka.location:com.github.benpollarduk.ktvn.logic.listeners/ListenerProvider/speaksAcknowledgement/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.listeners/-listener-provider/speaks-acknowledgement.html
 $dokka.location:com.github.benpollarduk.ktvn.logic.listeners/Moves///PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.listeners/-moves/index.html
-$dokka.location:com.github.benpollarduk.ktvn.logic.listeners/Moves/invoke/#com.github.benpollarduk.ktvn.characters.Character#com.github.benpollarduk.ktvn.layout.Position#com.github.benpollarduk.ktvn.layout.Position/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.listeners/-moves/invoke.html
+$dokka.location:com.github.benpollarduk.ktvn.logic.listeners/Moves/invoke/#com.github.benpollarduk.ktvn.characters.Character#com.github.benpollarduk.ktvn.layout.Position#com.github.benpollarduk.ktvn.layout.Position#com.github.benpollarduk.ktvn.logic.listeners.Acknowledges/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.listeners/-moves/invoke.html
 $dokka.location:com.github.benpollarduk.ktvn.logic.listeners/Narrates///PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.listeners/-narrates/index.html
 $dokka.location:com.github.benpollarduk.ktvn.logic.listeners/Narrates/invoke/#kotlin.String#com.github.benpollarduk.ktvn.logic.listeners.Acknowledges/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.listeners/-narrates/invoke.html
 $dokka.location:com.github.benpollarduk.ktvn.logic.listeners/Speaks///PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.listeners/-speaks/index.html
@@ -88,25 +104,25 @@ $dokka.location:com.github.benpollarduk.ktvn.logic.structure.steps/Choice/does/#
 $dokka.location:com.github.benpollarduk.ktvn.logic.structure.steps/Choice/invoke/#com.github.benpollarduk.ktvn.logic.Flags/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.structure.steps/-choice/invoke.html
 $dokka.location:com.github.benpollarduk.ktvn.logic.structure.steps/Choice/name/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.structure.steps/-choice/name.html
 $dokka.location:com.github.benpollarduk.ktvn.logic.structure.steps/Choice/name/#kotlin.String/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.structure.steps/-choice/name.html
+$dokka.location:com.github.benpollarduk.ktvn.logic.structure.steps/Conditional.Companion///PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.structure.steps/-conditional/-companion/index.html
+$dokka.location:com.github.benpollarduk.ktvn.logic.structure.steps/Conditional.Companion/conditional/#kotlin.Function1[com.github.benpollarduk.ktvn.logic.structure.steps.Conditional,kotlin.Unit]/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.structure.steps/-conditional/-companion/conditional.html
+$dokka.location:com.github.benpollarduk.ktvn.logic.structure.steps/Conditional///PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.structure.steps/-conditional/index.html
+$dokka.location:com.github.benpollarduk.ktvn.logic.structure.steps/Conditional/condition/#kotlin.String/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.structure.steps/-conditional/condition.html
+$dokka.location:com.github.benpollarduk.ktvn.logic.structure.steps/Conditional/does/#kotlin.Function1[com.github.benpollarduk.ktvn.logic.Flags,kotlin.Unit]/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.structure.steps/-conditional/does.html
+$dokka.location:com.github.benpollarduk.ktvn.logic.structure.steps/Conditional/invoke/#com.github.benpollarduk.ktvn.logic.Flags/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.structure.steps/-conditional/invoke.html
+$dokka.location:com.github.benpollarduk.ktvn.logic.structure.steps/Conditional/name/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.structure.steps/-conditional/name.html
+$dokka.location:com.github.benpollarduk.ktvn.logic.structure.steps/Conditional/name/#kotlin.String/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.structure.steps/-conditional/name.html
+$dokka.location:com.github.benpollarduk.ktvn.logic.structure.steps/Conditional/returns/#com.github.benpollarduk.ktvn.logic.structure.StepResult/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.structure.steps/-conditional/returns.html
 $dokka.location:com.github.benpollarduk.ktvn.logic.structure.steps/End.Companion///PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.structure.steps/-end/-companion/index.html
-$dokka.location:com.github.benpollarduk.ktvn.logic.structure.steps/End.Companion/then/#kotlin.Function1[com.github.benpollarduk.ktvn.logic.structure.steps.End,kotlin.Unit]/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.structure.steps/-end/-companion/then.html
+$dokka.location:com.github.benpollarduk.ktvn.logic.structure.steps/End.Companion/end/#kotlin.Function1[com.github.benpollarduk.ktvn.logic.structure.steps.End,kotlin.Unit]/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.structure.steps/-end/-companion/end.html
 $dokka.location:com.github.benpollarduk.ktvn.logic.structure.steps/End///PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.structure.steps/-end/index.html
 $dokka.location:com.github.benpollarduk.ktvn.logic.structure.steps/End/does/#kotlin.Function1[com.github.benpollarduk.ktvn.logic.Flags,kotlin.Unit]/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.structure.steps/-end/does.html
 $dokka.location:com.github.benpollarduk.ktvn.logic.structure.steps/End/invoke/#com.github.benpollarduk.ktvn.logic.Flags/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.structure.steps/-end/invoke.html
 $dokka.location:com.github.benpollarduk.ktvn.logic.structure.steps/End/name/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.structure.steps/-end/name.html
 $dokka.location:com.github.benpollarduk.ktvn.logic.structure.steps/End/name/#kotlin.String/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.structure.steps/-end/name.html
 $dokka.location:com.github.benpollarduk.ktvn.logic.structure.steps/End/number/#kotlin.Int/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.structure.steps/-end/number.html
-$dokka.location:com.github.benpollarduk.ktvn.logic.structure.steps/OnlyWhen.Companion///PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.structure.steps/-only-when/-companion/index.html
-$dokka.location:com.github.benpollarduk.ktvn.logic.structure.steps/OnlyWhen.Companion/onlyWhen/#kotlin.Function1[com.github.benpollarduk.ktvn.logic.structure.steps.OnlyWhen,kotlin.Unit]/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.structure.steps/-only-when/-companion/only-when.html
-$dokka.location:com.github.benpollarduk.ktvn.logic.structure.steps/OnlyWhen///PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.structure.steps/-only-when/index.html
-$dokka.location:com.github.benpollarduk.ktvn.logic.structure.steps/OnlyWhen/does/#kotlin.Function1[com.github.benpollarduk.ktvn.logic.Flags,kotlin.Unit]/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.structure.steps/-only-when/does.html
-$dokka.location:com.github.benpollarduk.ktvn.logic.structure.steps/OnlyWhen/flag/#kotlin.String/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.structure.steps/-only-when/flag.html
-$dokka.location:com.github.benpollarduk.ktvn.logic.structure.steps/OnlyWhen/invoke/#com.github.benpollarduk.ktvn.logic.Flags/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.structure.steps/-only-when/invoke.html
-$dokka.location:com.github.benpollarduk.ktvn.logic.structure.steps/OnlyWhen/name/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.structure.steps/-only-when/name.html
-$dokka.location:com.github.benpollarduk.ktvn.logic.structure.steps/OnlyWhen/name/#kotlin.String/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.structure.steps/-only-when/name.html
-$dokka.location:com.github.benpollarduk.ktvn.logic.structure.steps/OnlyWhen/returns/#com.github.benpollarduk.ktvn.logic.structure.StepResult/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.structure.steps/-only-when/returns.html
 $dokka.location:com.github.benpollarduk.ktvn.logic.structure.steps/Then.Companion///PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.structure.steps/-then/-companion/index.html
-$dokka.location:com.github.benpollarduk.ktvn.logic.structure.steps/Then.Companion/simple/#kotlin.Function1[com.github.benpollarduk.ktvn.logic.Flags,kotlin.Unit]/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.structure.steps/-then/-companion/simple.html
+$dokka.location:com.github.benpollarduk.ktvn.logic.structure.steps/Then.Companion/next/#kotlin.Function1[com.github.benpollarduk.ktvn.logic.Flags,kotlin.Unit]/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.structure.steps/-then/-companion/next.html
 $dokka.location:com.github.benpollarduk.ktvn.logic.structure.steps/Then.Companion/then/#kotlin.Function1[com.github.benpollarduk.ktvn.logic.structure.steps.Then,kotlin.Unit]/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.structure.steps/-then/-companion/then.html
 $dokka.location:com.github.benpollarduk.ktvn.logic.structure.steps/Then///PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.structure.steps/-then/index.html
 $dokka.location:com.github.benpollarduk.ktvn.logic.structure.steps/Then/does/#kotlin.Function1[com.github.benpollarduk.ktvn.logic.Flags,kotlin.Unit]/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.logic.structure.steps/-then/does.html
@@ -228,6 +244,7 @@ com.github.benpollarduk.ktvn.characters
 com.github.benpollarduk.ktvn.layout
 com.github.benpollarduk.ktvn.logic
 com.github.benpollarduk.ktvn.logic.listeners
+com.github.benpollarduk.ktvn.logic.listeners.console
 com.github.benpollarduk.ktvn.logic.structure
 com.github.benpollarduk.ktvn.logic.structure.steps
 
