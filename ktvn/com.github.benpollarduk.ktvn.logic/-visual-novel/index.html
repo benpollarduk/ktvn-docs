@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" charset="UTF-8">
+    <title>VisualNovel</title>
+    <link href="../../../images/logo-icon.svg" rel="icon" type="image/svg">
+    <script>var pathToRoot = "../../../";</script>
+    <script>document.documentElement.classList.replace("no-js","js");</script>
+    <script>const storage = localStorage.getItem("dokka-dark-mode")
+    if (storage == null) {
+        const osDarkSchemePreferred = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches
+        if (osDarkSchemePreferred === true) {
+            document.getElementsByTagName("html")[0].classList.add("theme-dark")
+        }
+    } else {
+        const savedDarkMode = JSON.parse(storage)
+        if(savedDarkMode === true) {
+            document.getElementsByTagName("html")[0].classList.add("theme-dark")
+        }
+    }
+    </script>
+<script type="text/javascript" src="https://unpkg.com/kotlin-playground@1/dist/playground.min.js" async="async"></script>
+<script type="text/javascript" src="../../../scripts/sourceset_dependencies.js" async="async"></script>
+<link href="../../../styles/style.css" rel="Stylesheet">
+<link href="../../../styles/main.css" rel="Stylesheet">
+<link href="../../../styles/prism.css" rel="Stylesheet">
+<link href="../../../styles/logo-styles.css" rel="Stylesheet">
+<link href="../../../styles/font-jb-sans-auto.css" rel="Stylesheet">
+<script type="text/javascript" src="../../../scripts/clipboard.js" async="async"></script>
+<script type="text/javascript" src="../../../scripts/navigation-loader.js" async="async"></script>
+<script type="text/javascript" src="../../../scripts/platform-content-handler.js" async="async"></script>
+<script type="text/javascript" src="../../../scripts/main.js" defer="defer"></script>
+<script type="text/javascript" src="../../../scripts/prism.js" async="async"></script>
+<script type="text/javascript" src="../../../scripts/symbol-parameters-wrapper_deferred.js" defer="defer"></script>
+</head>
+<body>
+    <div class="root">
+<nav class="navigation" id="navigation-wrapper">
+    <div class="navigation--inner">
+        <div class="navigation-title">
+            <button class="menu-toggle" id="menu-toggle" type="button">toggle menu</button>
+            <div class="library-name">
+                    <a class="library-name--link" href="../../../index.html">
+                            ktvn
+                    </a>
+            </div>
+            <div class="library-version">
+0.7.0            </div>
+        </div>
+        <div class="filter-section" id="filter-section">
+                <button class="platform-tag platform-selector jvm-like" data-active="" data-filter=":ktvn:dokkaHtml/main">jvm</button>
+        </div>
+    </div>
+    <div class="navigation-controls">
+        <button class="navigation-controls--btn navigation-controls--theme" id="theme-toggle-button" type="button">switch theme</button>
+        <div class="navigation-controls--btn navigation-controls--search" id="searchBar" role="button">search in API</div>
+    </div>
+</nav>
+        <div id="container">
+            <div class="sidebar" id="leftColumn">
+                <div class="sidebar--inner" id="sideMenu"></div>
+            </div>
+            <div id="main">
+<div class="main-content" data-page-type="classlike" id="content" pageIds="ktvn::com.github.benpollarduk.ktvn.logic/VisualNovel///PointingToDeclaration//-459149368">
+  <div class="breadcrumbs"><a href="../../../index.html">ktvn</a><span class="delimiter">/</span><a href="../index.html">com.github.benpollarduk.ktvn.logic</a><span class="delimiter">/</span><span class="current">VisualNovel</span></div>
+  <div class="cover ">
+    <h1 class="cover"><span>Visual</span><wbr></wbr><span><span>Novel</span></span></h1>
+    <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":ktvn:dokkaHtml/main"><div class="symbol monospace"><span class="token keyword">abstract </span><span class="token keyword">class </span><a href="index.html">VisualNovel</a><span class="token punctuation">(</span><span class="parameters "><span class="parameter "><span class="token keyword">val </span>story<span class="token operator">: </span><a href="../../com.github.benpollarduk.ktvn.logic.structure/-story/index.html">Story</a><span class="token punctuation">, </span></span><span class="parameter "><span class="token keyword">val </span>configuration<span class="token operator">: </span><a href="../../com.github.benpollarduk.ktvn.logic.configuration/-game-configuration/index.html">GameConfiguration</a><span class="token punctuation">, </span></span><span class="parameter "><span class="token keyword">val </span>desiredResolution<span class="token operator">: </span><a href="../../com.github.benpollarduk.ktvn.layout/-resolution/index.html">Resolution</a><span class="token operator"> = </span>Resolution.NOT_SPECIFIED</span></span><span class="token punctuation">)</span></div><p class="paragraph">A visual novel. Contains all the components required to create a <a href="../-game/index.html">Game</a> including a <a href="story.html">story</a> and <a href="configuration.html">configuration</a>. A <a href="desired-resolution.html">desiredResolution</a> can be specified if a specific resolution should be targeted.</p></div></div>
+  </div>
+  <div class="tabbedcontent">
+    <div class="tabs-section" tabs-section="tabs-section"><button class="section-tab" data-active="" data-togglable="CONSTRUCTOR,TYPE,PROPERTY,FUNCTION">Members</button></div>
+    <div class="tabs-section-body">
+      <div data-togglable="CONSTRUCTOR">
+        <h2 class="">Constructors</h2>
+        <div class="table"><a data-name="-1280707393%2FConstructors%2F-459149368" anchor-label="VisualNovel" id="-1280707393%2FConstructors%2F-459149368" data-filterable-set=":ktvn:dokkaHtml/main"></a>
+          <div class="table-row" data-togglable="CONSTRUCTOR" data-filterable-current=":ktvn:dokkaHtml/main" data-filterable-set=":ktvn:dokkaHtml/main">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="-visual-novel.html"><span>Visual</span><wbr></wbr><span><span>Novel</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1280707393%2FConstructors%2F-459149368"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":ktvn:dokkaHtml/main"><div class="symbol monospace"><span class="token keyword">constructor</span><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">story<span class="token operator">: </span><a href="../../com.github.benpollarduk.ktvn.logic.structure/-story/index.html">Story</a><span class="token punctuation">, </span></span><span class="parameter ">configuration<span class="token operator">: </span><a href="../../com.github.benpollarduk.ktvn.logic.configuration/-game-configuration/index.html">GameConfiguration</a><span class="token punctuation">, </span></span><span class="parameter ">desiredResolution<span class="token operator">: </span><a href="../../com.github.benpollarduk.ktvn.layout/-resolution/index.html">Resolution</a><span class="token operator"> = </span>Resolution.NOT_SPECIFIED</span></span><span class="token punctuation">)</span></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div data-togglable="TYPE">
+        <h2 class="">Types</h2>
+        <div class="table"><a data-name="1590495012%2FClasslikes%2F-459149368" anchor-label="Companion" id="1590495012%2FClasslikes%2F-459149368" data-filterable-set=":ktvn:dokkaHtml/main"></a>
+          <div class="table-row" data-filterable-current=":ktvn:dokkaHtml/main" data-filterable-set=":ktvn:dokkaHtml/main">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="-companion/index.html"><span><span>Companion</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1590495012%2FClasslikes%2F-459149368"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":ktvn:dokkaHtml/main"><div class="symbol monospace"><span class="token keyword">object </span><a href="-companion/index.html">Companion</a></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div data-togglable="PROPERTY">
+        <h2 class="">Properties</h2>
+        <div class="table"><a data-name="267834444%2FProperties%2F-459149368" anchor-label="characterResourceLookup" id="267834444%2FProperties%2F-459149368" data-filterable-set=":ktvn:dokkaHtml/main"></a>
+          <div class="table-row" data-filterable-current=":ktvn:dokkaHtml/main" data-filterable-set=":ktvn:dokkaHtml/main">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="character-resource-lookup.html"><span>character</span><wbr></wbr><span>Resource</span><wbr></wbr><span><span>Lookup</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="267834444%2FProperties%2F-459149368"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":ktvn:dokkaHtml/main"><div class="symbol monospace"><span class="token keyword">open </span><span class="token keyword"></span><span class="token keyword">var </span><a href="character-resource-lookup.html">characterResourceLookup</a><span class="token operator">: </span><a href="../../com.github.benpollarduk.ktvn.io/-character-resource-lookup/index.html">CharacterResourceLookup</a></div><div class="brief "><p class="paragraph">Get the <a href="../../com.github.benpollarduk.ktvn.io/-character-resource-lookup/index.html">CharacterResourceLookup</a>.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-1574497881%2FProperties%2F-459149368" anchor-label="configuration" id="-1574497881%2FProperties%2F-459149368" data-filterable-set=":ktvn:dokkaHtml/main"></a>
+          <div class="table-row" data-filterable-current=":ktvn:dokkaHtml/main" data-filterable-set=":ktvn:dokkaHtml/main">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="configuration.html"><span><span>configuration</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1574497881%2FProperties%2F-459149368"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":ktvn:dokkaHtml/main"><div class="symbol monospace"><span class="token keyword"></span><span class="token keyword">val </span><a href="configuration.html">configuration</a><span class="token operator">: </span><a href="../../com.github.benpollarduk.ktvn.logic.configuration/-game-configuration/index.html">GameConfiguration</a></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-908981833%2FProperties%2F-459149368" anchor-label="desiredResolution" id="-908981833%2FProperties%2F-459149368" data-filterable-set=":ktvn:dokkaHtml/main"></a>
+          <div class="table-row" data-filterable-current=":ktvn:dokkaHtml/main" data-filterable-set=":ktvn:dokkaHtml/main">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="desired-resolution.html"><span>desired</span><wbr></wbr><span><span>Resolution</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-908981833%2FProperties%2F-459149368"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":ktvn:dokkaHtml/main"><div class="symbol monospace"><span class="token keyword"></span><span class="token keyword">val </span><a href="desired-resolution.html">desiredResolution</a><span class="token operator">: </span><a href="../../com.github.benpollarduk.ktvn.layout/-resolution/index.html">Resolution</a></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="451336840%2FProperties%2F-459149368" anchor-label="story" id="451336840%2FProperties%2F-459149368" data-filterable-set=":ktvn:dokkaHtml/main"></a>
+          <div class="table-row" data-filterable-current=":ktvn:dokkaHtml/main" data-filterable-set=":ktvn:dokkaHtml/main">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="story.html"><span><span>story</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="451336840%2FProperties%2F-459149368"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":ktvn:dokkaHtml/main"><div class="symbol monospace"><span class="token keyword"></span><span class="token keyword">val </span><a href="story.html">story</a><span class="token operator">: </span><a href="../../com.github.benpollarduk.ktvn.logic.structure/-story/index.html">Story</a></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+<a data-name="-795869238%2FProperties%2F-459149368" anchor-label="structure" id="-795869238%2FProperties%2F-459149368" data-filterable-set=":ktvn:dokkaHtml/main"></a>
+          <div class="table-row" data-filterable-current=":ktvn:dokkaHtml/main" data-filterable-set=":ktvn:dokkaHtml/main">
+            <div class="main-subrow keyValue ">
+              <div class=""><span class="inline-flex">
+                  <div><a href="structure.html"><span><span>structure</span></span></a></div>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-795869238%2FProperties%2F-459149368"></span>
+                    <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                  </span></span></div>
+              <div>
+                <div class="title">
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":ktvn:dokkaHtml/main"><div class="symbol monospace"><span class="token keyword"></span><span class="token keyword">var </span><a href="structure.html">structure</a><span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-array/index.html">Array</a><span class="token operator">&lt;</span><span class="token keyword"></span><a href="../../com.github.benpollarduk.ktvn.logic.structure/-step-identifier/index.html">StepIdentifier</a><span class="token operator">&gt;</span></div><div class="brief "><p class="paragraph">Get the structure of the <a href="story.html">story</a> as an array of <a href="../../com.github.benpollarduk.ktvn.logic.structure/-step-identifier/index.html">StepIdentifier</a>.</p></div></div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      <div class="footer">
+        <span class="go-to-top-icon"><a href="#content" id="go-to-top-link"></a></span><span>© 2023 Copyright</span><span
+                class="pull-right"><span>Generated by </span><a
+                href="https://github.com/Kotlin/dokka"><span>dokka</span><span class="padded-icon"></span></a></span>
+      </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
