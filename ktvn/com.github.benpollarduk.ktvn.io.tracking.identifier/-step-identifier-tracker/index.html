@@ -45,7 +45,7 @@
                     </a>
             </div>
             <div class="library-version">
-0.7.1            </div>
+0.7.2            </div>
         </div>
         <div class="filter-section" id="filter-section">
                 <button class="platform-tag platform-selector jvm-like" data-active="" data-filter=":ktvn:dokkaHtml/main">jvm</button>
@@ -65,7 +65,7 @@
   <div class="breadcrumbs"><a href="../../../index.html">ktvn</a><span class="delimiter">/</span><a href="../index.html">com.github.benpollarduk.ktvn.io.tracking.identifier</a><span class="delimiter">/</span><span class="current">StepIdentifierTracker</span></div>
   <div class="cover ">
     <h1 class="cover"><span>Step</span><wbr></wbr><span>Identifier</span><wbr></wbr><span><span>Tracker</span></span></h1>
-    <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":ktvn:dokkaHtml/main"><div class="symbol monospace"><span class="token keyword">class </span><a href="index.html">StepIdentifierTracker</a> <span class="token keyword">constructor</span><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">initialTable<span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-mutable-list/index.html">MutableList</a><span class="token operator">&lt;</span><span class="token keyword"></span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html">String</a><span class="token operator">&gt;</span><span class="token operator"> = </span>mutableListOf()</span></span><span class="token punctuation">)</span> : <a href="../../com.github.benpollarduk.ktvn.io.tracking/-step-tracker/index.html">StepTracker</a></div><p class="paragraph">Provides a simple implementation of a <a href="../../com.github.benpollarduk.ktvn.io.tracking/-step-tracker/index.html">StepTracker</a> that uses <a href="../../com.github.benpollarduk.ktvn.logic.structure/-step-identifier/index.html">StepIdentifier</a> to track if a <a href="../../com.github.benpollarduk.ktvn.logic.structure/-step/index.html">Step</a> has been seen. Optionally the <a href="table.html">table</a> can be provided. This provides a simple mechanism for tracking steps and may not be suitable for games with greater than 100,000 steps as the lookup will become more costly and serialization less suitable.</p></div></div>
+    <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":ktvn:dokkaHtml/main"><div class="symbol monospace"><span class="token keyword">class </span><a href="index.html">StepIdentifierTracker</a> <span class="token keyword">constructor</span><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">initialTable<span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-mutable-list/index.html">MutableList</a><span class="token operator">&lt;</span><span class="token keyword"></span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html">String</a><span class="token operator">&gt;</span><span class="token operator"> = </span>mutableListOf()</span></span><span class="token punctuation">)</span> : <a href="../../com.github.benpollarduk.ktvn.io.tracking/-step-tracker/index.html">StepTracker</a></div><p class="paragraph">Provides a simple implementation of a <a href="../../com.github.benpollarduk.ktvn.io.tracking/-step-tracker/index.html">StepTracker</a> that uses <a href="../../com.github.benpollarduk.ktvn.structure/-step-identifier/index.html">StepIdentifier</a> to track if a <a href="../../com.github.benpollarduk.ktvn.structure/-step/index.html">Step</a> has been seen. Optionally the <a href="table.html">table</a> can be provided. This provides a simple mechanism for tracking steps and may not be suitable for games with greater than 100,000 steps as the lookup will become more costly and serialization less suitable.</p></div></div>
   </div>
   <div class="tabbedcontent">
     <div class="tabs-section" tabs-section="tabs-section"><button class="section-tab" data-active="" data-togglable="CONSTRUCTOR,TYPE,PROPERTY,FUNCTION">Members</button></div>
@@ -144,17 +144,17 @@
       </div>
       <div data-togglable="FUNCTION">
         <h2 class="">Functions</h2>
-        <div class="table"><a data-name="449208396%2FFunctions%2F-459149368" anchor-label="hasBeenSeen" id="449208396%2FFunctions%2F-459149368" data-filterable-set=":ktvn:dokkaHtml/main"></a>
+        <div class="table"><a data-name="-1003220900%2FFunctions%2F-459149368" anchor-label="hasBeenSeen" id="-1003220900%2FFunctions%2F-459149368" data-filterable-set=":ktvn:dokkaHtml/main"></a>
           <div class="table-row" data-filterable-current=":ktvn:dokkaHtml/main" data-filterable-set=":ktvn:dokkaHtml/main">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="has-been-seen.html"><span>has</span><wbr></wbr><span>Been</span><wbr></wbr><span><span>Seen</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="449208396%2FFunctions%2F-459149368"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1003220900%2FFunctions%2F-459149368"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":ktvn:dokkaHtml/main"><div class="symbol monospace"><span class="token keyword">open </span><span class="token keyword">override </span><span class="token keyword">fun </span><a href="has-been-seen.html"><span class="token function">hasBeenSeen</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">step<span class="token operator">: </span><a href="../../com.github.benpollarduk.ktvn.logic.structure/-step/index.html">Step</a></span></span><span class="token punctuation">)</span><span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html">Boolean</a></div><div class="brief "><p class="paragraph">Get if a <a href="has-been-seen.html">step</a> has been seen.</p></div></div></div>
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":ktvn:dokkaHtml/main"><div class="symbol monospace"><span class="token keyword">open </span><span class="token keyword">override </span><span class="token keyword">fun </span><a href="has-been-seen.html"><span class="token function">hasBeenSeen</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">step<span class="token operator">: </span><a href="../../com.github.benpollarduk.ktvn.structure/-step/index.html">Step</a></span></span><span class="token punctuation">)</span><span class="token operator">: </span><a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html">Boolean</a></div><div class="brief "><p class="paragraph">Get if a <a href="has-been-seen.html">step</a> has been seen.</p></div></div></div>
                 </div>
               </div>
             </div>
@@ -174,17 +174,17 @@
               </div>
             </div>
           </div>
-<a data-name="-233394461%2FFunctions%2F-459149368" anchor-label="registerStepSeen" id="-233394461%2FFunctions%2F-459149368" data-filterable-set=":ktvn:dokkaHtml/main"></a>
+<a data-name="-1221796813%2FFunctions%2F-459149368" anchor-label="registerStepSeen" id="-1221796813%2FFunctions%2F-459149368" data-filterable-set=":ktvn:dokkaHtml/main"></a>
           <div class="table-row" data-filterable-current=":ktvn:dokkaHtml/main" data-filterable-set=":ktvn:dokkaHtml/main">
             <div class="main-subrow keyValue ">
               <div class=""><span class="inline-flex">
                   <div><a href="register-step-seen.html"><span>register</span><wbr></wbr><span>Step</span><wbr></wbr><span><span>Seen</span></span></a></div>
-<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-233394461%2FFunctions%2F-459149368"></span>
+<span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1221796813%2FFunctions%2F-459149368"></span>
                     <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
                   </span></span></div>
               <div>
                 <div class="title">
-                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":ktvn:dokkaHtml/main"><div class="symbol monospace"><span class="token keyword">open </span><span class="token keyword">override </span><span class="token keyword">fun </span><a href="register-step-seen.html"><span class="token function">registerStepSeen</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">step<span class="token operator">: </span><a href="../../com.github.benpollarduk.ktvn.logic.structure/-step/index.html">Step</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Register that a <a href="register-step-seen.html">step</a> has been seen.</p></div></div></div>
+                  <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-dependent-content" data-active="" data-togglable=":ktvn:dokkaHtml/main"><div class="symbol monospace"><span class="token keyword">open </span><span class="token keyword">override </span><span class="token keyword">fun </span><a href="register-step-seen.html"><span class="token function">registerStepSeen</span></a><span class="token punctuation">(</span><span class="parameters "><span class="parameter ">step<span class="token operator">: </span><a href="../../com.github.benpollarduk.ktvn.structure/-step/index.html">Step</a></span></span><span class="token punctuation">)</span></div><div class="brief "><p class="paragraph">Register that a <a href="register-step-seen.html">step</a> has been seen.</p></div></div></div>
                 </div>
               </div>
             </div>
