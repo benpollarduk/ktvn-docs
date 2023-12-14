@@ -55,16 +55,12 @@ $dokka.location:com.github.benpollarduk.ktvn.backgrounds/ResourceBackground/Reso
 $dokka.location:com.github.benpollarduk.ktvn.backgrounds/ResourceBackground/key/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.backgrounds/-resource-background/key.html
 $dokka.location:com.github.benpollarduk.ktvn.characters.animations////PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.characters.animations/index.html
 $dokka.location:com.github.benpollarduk.ktvn.characters.animations/Animation///PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.characters.animations/-animation/index.html
-$dokka.location:com.github.benpollarduk.ktvn.characters.animations/Laugh.Companion///PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.characters.animations/-laugh/-companion/index.html
-$dokka.location:com.github.benpollarduk.ktvn.characters.animations/Laugh.Companion/NO_OSCILLATION_LIMIT/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.characters.animations/-laugh/-companion/-n-o_-o-s-c-i-l-l-a-t-i-o-n_-l-i-m-i-t.html
 $dokka.location:com.github.benpollarduk.ktvn.characters.animations/Laugh///PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.characters.animations/-laugh/index.html
 $dokka.location:com.github.benpollarduk.ktvn.characters.animations/Laugh/Laugh/#kotlin.Double#kotlin.Int#kotlin.Int/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.characters.animations/-laugh/-laugh.html
 $dokka.location:com.github.benpollarduk.ktvn.characters.animations/Laugh/framesPerSecond/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.characters.animations/-laugh/frames-per-second.html
 $dokka.location:com.github.benpollarduk.ktvn.characters.animations/Laugh/oscillations/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.characters.animations/-laugh/oscillations.html
 $dokka.location:com.github.benpollarduk.ktvn.characters.animations/Laugh/strength/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.characters.animations/-laugh/strength.html
 $dokka.location:com.github.benpollarduk.ktvn.characters.animations/Laugh/toString/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.characters.animations/-laugh/to-string.html
-$dokka.location:com.github.benpollarduk.ktvn.characters.animations/Shake.Companion///PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.characters.animations/-shake/-companion/index.html
-$dokka.location:com.github.benpollarduk.ktvn.characters.animations/Shake.Companion/NO_OSCILLATION_LIMIT/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.characters.animations/-shake/-companion/-n-o_-o-s-c-i-l-l-a-t-i-o-n_-l-i-m-i-t.html
 $dokka.location:com.github.benpollarduk.ktvn.characters.animations/Shake///PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.characters.animations/-shake/index.html
 $dokka.location:com.github.benpollarduk.ktvn.characters.animations/Shake/Shake/#kotlin.Double#kotlin.Double#kotlin.Int#kotlin.Int/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.characters.animations/-shake/-shake.html
 $dokka.location:com.github.benpollarduk.ktvn.characters.animations/Shake/framesPerSecond/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.characters.animations/-shake/frames-per-second.html
@@ -72,9 +68,6 @@ $dokka.location:com.github.benpollarduk.ktvn.characters.animations/Shake/oscilla
 $dokka.location:com.github.benpollarduk.ktvn.characters.animations/Shake/strengthX/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.characters.animations/-shake/strength-x.html
 $dokka.location:com.github.benpollarduk.ktvn.characters.animations/Shake/strengthY/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.characters.animations/-shake/strength-y.html
 $dokka.location:com.github.benpollarduk.ktvn.characters.animations/Shake/toString/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.characters.animations/-shake/to-string.html
-$dokka.location:com.github.benpollarduk.ktvn.characters.animations/Stop///PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.characters.animations/-stop/index.html
-$dokka.location:com.github.benpollarduk.ktvn.characters.animations/Stop/Stop/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.characters.animations/-stop/-stop.html
-$dokka.location:com.github.benpollarduk.ktvn.characters.animations/Stop/toString/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.characters.animations/-stop/to-string.html
 $dokka.location:com.github.benpollarduk.ktvn.characters////PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.characters/index.html
 $dokka.location:com.github.benpollarduk.ktvn.characters/AnimateListener///PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.characters/-animate-listener/index.html
 $dokka.location:com.github.benpollarduk.ktvn.characters/AnimateListener/animate/#com.github.benpollarduk.ktvn.characters.Character#com.github.benpollarduk.ktvn.characters.animations.Animation/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.characters/-animate-listener/animate.html
