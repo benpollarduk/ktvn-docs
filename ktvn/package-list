@@ -42,6 +42,7 @@ $dokka.location:com.github.benpollarduk.ktvn.audio/SoundPlaybackResult/detail/#/
 $dokka.location:com.github.benpollarduk.ktvn.audio/SoundPlaybackResult/wasSuccessful/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.audio/-sound-playback-result/was-successful.html
 $dokka.location:com.github.benpollarduk.ktvn.audio/SoundPlayer///PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.audio/-sound-player/index.html
 $dokka.location:com.github.benpollarduk.ktvn.audio/SoundPlayer/SoundPlayer/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.audio/-sound-player/-sound-player.html
+$dokka.location:com.github.benpollarduk.ktvn.audio/SoundPlayer/adjustVolume/#kotlin.Double/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.audio/-sound-player/adjust-volume.html
 $dokka.location:com.github.benpollarduk.ktvn.audio/SoundPlayer/playFromFile/#kotlin.String#kotlin.Double#kotlin.Boolean/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.audio/-sound-player/play-from-file.html
 $dokka.location:com.github.benpollarduk.ktvn.audio/SoundPlayer/playFromResource/#kotlin.String#kotlin.Double#kotlin.Boolean/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.audio/-sound-player/play-from-resource.html
 $dokka.location:com.github.benpollarduk.ktvn.audio/SoundPlayer/stop/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.audio/-sound-player/stop.html
