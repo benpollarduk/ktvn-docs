@@ -60,11 +60,13 @@ $dokka.location:com.github.benpollarduk.ktvn.audio/VolumeManager/configure/#com.
 $dokka.location:com.github.benpollarduk.ktvn.audio/VolumeManager/getCharacterVoiceVolume/#com.github.benpollarduk.ktvn.characters.Character/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.audio/-volume-manager/get-character-voice-volume.html
 $dokka.location:com.github.benpollarduk.ktvn.audio/VolumeManager/getMasterVolume/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.audio/-volume-manager/get-master-volume.html
 $dokka.location:com.github.benpollarduk.ktvn.audio/VolumeManager/getMusicVolume/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.audio/-volume-manager/get-music-volume.html
+$dokka.location:com.github.benpollarduk.ktvn.audio/VolumeManager/getOtherVoiceVolume/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.audio/-volume-manager/get-other-voice-volume.html
 $dokka.location:com.github.benpollarduk.ktvn.audio/VolumeManager/getSoundEffectVolume/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.audio/-volume-manager/get-sound-effect-volume.html
 $dokka.location:com.github.benpollarduk.ktvn.audio/VolumeManager/getVoiceVolume/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.audio/-volume-manager/get-voice-volume.html
 $dokka.location:com.github.benpollarduk.ktvn.audio/VolumeManager/setCharacterVoiceVolume/#com.github.benpollarduk.ktvn.characters.Character#kotlin.Double/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.audio/-volume-manager/set-character-voice-volume.html
 $dokka.location:com.github.benpollarduk.ktvn.audio/VolumeManager/setMasterVolume/#kotlin.Double/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.audio/-volume-manager/set-master-volume.html
 $dokka.location:com.github.benpollarduk.ktvn.audio/VolumeManager/setMusicVolume/#kotlin.Double/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.audio/-volume-manager/set-music-volume.html
+$dokka.location:com.github.benpollarduk.ktvn.audio/VolumeManager/setOtherVoiceVolume/#kotlin.Double/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.audio/-volume-manager/set-other-voice-volume.html
 $dokka.location:com.github.benpollarduk.ktvn.audio/VolumeManager/setSoundEffectVolume/#kotlin.Double/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.audio/-volume-manager/set-sound-effect-volume.html
 $dokka.location:com.github.benpollarduk.ktvn.audio/VolumeManager/setVoiceVolume/#kotlin.Double/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.audio/-volume-manager/set-voice-volume.html
 $dokka.location:com.github.benpollarduk.ktvn.audio/VolumeManager/toConfiguration/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.audio/-volume-manager/to-configuration.html
@@ -81,6 +83,7 @@ $dokka.location:com.github.benpollarduk.ktvn.audio/VolumeManagerConfiguration/vo
 $dokka.location:com.github.benpollarduk.ktvn.backgrounds////PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.backgrounds/index.html
 $dokka.location:com.github.benpollarduk.ktvn.backgrounds/Background///PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.backgrounds/-background/index.html
 $dokka.location:com.github.benpollarduk.ktvn.backgrounds/ColorBackground.Companion///PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.backgrounds/-color-background/-companion/index.html
+$dokka.location:com.github.benpollarduk.ktvn.backgrounds/ColorBackground.Companion/backgroundFromColor/#java.awt.Color/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.backgrounds/-color-background/-companion/background-from-color.html
 $dokka.location:com.github.benpollarduk.ktvn.backgrounds/ColorBackground.Companion/empty/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.backgrounds/-color-background/-companion/empty.html
 $dokka.location:com.github.benpollarduk.ktvn.backgrounds/ColorBackground///PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.backgrounds/-color-background/index.html
 $dokka.location:com.github.benpollarduk.ktvn.backgrounds/ColorBackground/ColorBackground/#java.awt.Color/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.backgrounds/-color-background/-color-background.html
@@ -96,6 +99,8 @@ $dokka.location:com.github.benpollarduk.ktvn.backgrounds/ResourceBackground///Po
 $dokka.location:com.github.benpollarduk.ktvn.backgrounds/ResourceBackground/ResourceBackground/#kotlin.String/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.backgrounds/-resource-background/-resource-background.html
 $dokka.location:com.github.benpollarduk.ktvn.backgrounds/ResourceBackground/key/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.backgrounds/-resource-background/key.html
 $dokka.location:com.github.benpollarduk.ktvn.characters.animations////PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.characters.animations/index.html
+$dokka.location:com.github.benpollarduk.ktvn.characters.animations/AnimateListener///PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.characters.animations/-animate-listener/index.html
+$dokka.location:com.github.benpollarduk.ktvn.characters.animations/AnimateListener/animate/#com.github.benpollarduk.ktvn.characters.Character#com.github.benpollarduk.ktvn.characters.animations.Animation/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.characters.animations/-animate-listener/animate.html
 $dokka.location:com.github.benpollarduk.ktvn.characters.animations/Animation///PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.characters.animations/-animation/index.html
 $dokka.location:com.github.benpollarduk.ktvn.characters.animations/Laugh///PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.characters.animations/-laugh/index.html
 $dokka.location:com.github.benpollarduk.ktvn.characters.animations/Laugh/Laugh/#kotlin.Double#kotlin.Int#kotlin.Int/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.characters.animations/-laugh/-laugh.html
@@ -111,8 +116,6 @@ $dokka.location:com.github.benpollarduk.ktvn.characters.animations/Shake/strengt
 $dokka.location:com.github.benpollarduk.ktvn.characters.animations/Shake/strengthY/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.characters.animations/-shake/strength-y.html
 $dokka.location:com.github.benpollarduk.ktvn.characters.animations/Shake/toString/#/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.characters.animations/-shake/to-string.html
 $dokka.location:com.github.benpollarduk.ktvn.characters////PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.characters/index.html
-$dokka.location:com.github.benpollarduk.ktvn.characters/AnimateListener///PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.characters/-animate-listener/index.html
-$dokka.location:com.github.benpollarduk.ktvn.characters/AnimateListener/animate/#com.github.benpollarduk.ktvn.characters.Character#com.github.benpollarduk.ktvn.characters.animations.Animation/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.characters/-animate-listener/animate.html
 $dokka.location:com.github.benpollarduk.ktvn.characters/Character///PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.characters/-character/index.html
 $dokka.location:com.github.benpollarduk.ktvn.characters/Character/Character/#kotlin.String#com.github.benpollarduk.ktvn.logic.adapters.CharacterAdapter#kotlin.String/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.characters/-character/-character.html
 $dokka.location:com.github.benpollarduk.ktvn.characters/Character/asks/#com.github.benpollarduk.ktvn.logic.Question/PointingToDeclaration/ktvn/com.github.benpollarduk.ktvn.characters/-character/asks.html
