@@ -962,7 +962,7 @@ engine.beginProcessingInput()
 <pre><code class="language-kotlin">package com.github.benpollarduk.ktvn.getting.started
 
 import com.github.benpollarduk.ktvn.characters.Character
-import com.github.benpollarduk.ktvn.characters.Emotions
+import com.github.benpollarduk.ktvn.characters.Emotions.happy
 import com.github.benpollarduk.ktvn.characters.Narrator
 import com.github.benpollarduk.ktvn.layout.Layout
 import com.github.benpollarduk.ktvn.layout.Layout.Companion.createLayout
@@ -998,7 +998,7 @@ fun main(args: Array&lt;String&gt;) {
                 next { narrator narrates &quot;Welcome to the story!&quot; }
                 next { layout moveLeft ben }
                 next { ben says &quot;Hi.&quot; }
-                next { ben looks Emotions.happy }
+                next { ben looks happy }
             }
         }
     }
